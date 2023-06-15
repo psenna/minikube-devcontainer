@@ -37,7 +37,7 @@ Teste se o minikube subiu:
 kubectl get no
 ```
 
-Se for encontrado um node minikube Readi, está tudo funcionando.
+Se for encontrado um node minikube Ready, está tudo funcionando.
 
 ![kubectl-getno](./imgs/kubectl_getno.png)
 
